@@ -36,5 +36,3 @@ The insights from this sales dashboard can complement machine learning models. F
 ## License
 This file is provided for educational and demonstration purposes. Please ensure compliance with data privacy and usage policies if applying it in a professional setting.
 
-## Contact
-For any questions or suggestions, please feel free to reach out at [your email or GitHub profile link].
